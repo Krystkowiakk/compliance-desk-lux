@@ -230,7 +230,7 @@ export default function KnowledgePage() {
                     </h2>
                     <div className="flex items-center gap-1.5 mt-1.5">
                       <BadgeCheck className="size-3.5 text-primary shrink-0" aria-hidden />
-                      <span className="text-xs font-medium text-primary">Reviewed by Consultant</span>
+                      <span className="text-xs font-medium text-primary">Reviewed by Stéphane Leloup</span>
                       <span className="text-muted-foreground text-xs">·</span>
                       <span className="text-[11px] text-muted-foreground">
                         For operational tracking purposes only. Does not constitute legal advice.
